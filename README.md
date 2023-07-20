@@ -37,8 +37,8 @@
 ### Socials
 
 <p align="left">
-<a href="https://github.com/youssefm2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /></a>
-<a href="https://www.linkedin.com/in/youssef-elshemy-217166217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>
+<a href="https://github.com/youssefm2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="42" /></a>
+<a href="https://www.linkedin.com/in/youssef-elshemy-217166217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=youssefm2000)](https://github.com/ryo-ma/github-profile-trophy)
 
