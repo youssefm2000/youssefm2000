@@ -9,7 +9,6 @@
 - ISTQB certified  
 - Manual Testing : Test case , bug report with tool like Jira
 - Automation Testing : Web with Selenium, Mobile with Appium , Api with Rest Assured
-- Performace Testing : JMeter
 - Backend : SQL , Postman  
 - Containerization Tools : Docker, Kubernetes             
 - CI-CD Tools : Jenkins    
