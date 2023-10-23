@@ -10,9 +10,8 @@
 - Manual Testing : Test case , bug report with tool like Jira
 - Automation Testing : Web with Selenium, Mobile with Appium , Api with Rest Assured
 - Backend : SQL , Postman  
-- Containerization Tools : Docker, Kubernetes             
+- Containerization Tools : Docker             
 - CI-CD Tools : Jenkins    
-- Scripting : Bash Shell 
 - Operation Systems : Linux Administration , Windows server
 - Version Control : GitHub , Git  
   
