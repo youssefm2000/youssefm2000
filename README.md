@@ -1,6 +1,6 @@
 #  Hi there , My name is Youssef Elshemy👋
 
-<img src="separator.png" width="100%" />  
+------------------------------------------
 
 ### Software Test Engineer
 ### Software Test Engineer with expertise in automation Web & Mobile & Api and Manual Testing with Jira Tool and certified ISTQB®FL , i use CI/CD pipelines to run test cases parallel and Maven to run it with comand , I can use docker & Cloud also in any project .
@@ -44,5 +44,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefm2000&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=youssefm2000)  
+<p align="center"><img alt="Coding" width="50%" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611740da2b37d27e4500370f2d1a4577e02de5fb815&rid=giphy.gif&ct=g"></p>
 
  
