@@ -3,7 +3,7 @@
 ------------------------------------------
 
 ### Software Test Engineer
-### Software Test Engineer with expertise in automation Web & Mobile & Api and Manual Testing with Jira Tool and certified ISTQB®FL , i use CI/CD pipelines to run test cases parallel and Maven to run it with comand , I can use docker & Cloud also in any project .
+### Software Test Engineer with expertise in automation Web & Mobile & Api and Manual Testing with Jira Tool , i use CI/CD pipelines to run test cases parallel and Maven to run it with comand , I can use docker & Cloud also in any project .
 
 ## Skills and Experience :
 - Manual Testing : Test case , bug report with tool like Jira
