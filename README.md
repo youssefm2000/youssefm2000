@@ -6,12 +6,10 @@
 ### Software Test Engineer with expertise in automation Web & Mobile & Api and Manual Testing with Jira Tool , i use CI/CD pipelines to run test cases parallel and Maven to run it with comand , I can use docker & Cloud also in any project .
 
 ## Skills and Experience :
-- Manual Testing : Test case , bug report with tool like Jira
+- Manual Testing : Test case , bug report with tool like Jira and AzureDeVops
 - Automation Testing : Web with Selenium, Mobile with Appium , Api with Rest Assured
-- Backend : SQL , Postman  
-- Containerization Tools : Docker             
+- Backend : SQL , Postman         
 - CI-CD Tools : Jenkins    
-- Operation Systems : Linux Administration , Windows server
 - Version Control : GitHub , Git  
   
 -------------------------------------
