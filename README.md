@@ -14,8 +14,6 @@
   
 -------------------------------------
 
-### 🌱 I’m currently learning Testing 
-
 ### 💬 Ask me about Testing 
 
 ### 📫 How to reach me: youssefelshemy99@gmail.com
